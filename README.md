@@ -1,2 +1,2 @@
-# FrazzledCircuits-KiCad-footprints
-A selection of useful KiCad component footprints
+# FrazzledCircuits KiCad Library
+A selection of useful KiCad components
